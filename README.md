@@ -200,20 +200,3 @@
   </script>
 </body>
 </html>
-
-
-Listo, ya tienes una página web funcional llamada “Salud Rural Conectada” ✅
-
-🧩 Qué incluye:
-
-Secciones: Inicio, Revisión de salud, Clases de primeros auxilios, Contacto.
-
-Botón para cambiar entre Español y Quechua.
-
-Formularios y contenido adaptado a celulares.
-
-Código simple y ligero, ideal para zonas con internet limitado.
-
-
-¿Quieres que te ayude a subirla a Internet (gratis con GitHub Pages, por ejemplo)? ¿O quieres agregar videos, mapas de centros de salud o chat médico en el futuro?
-
